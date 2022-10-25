@@ -1,2 +1,2 @@
 #This is my first project. 
-#This is a second line.
+#This is the second line of the project.
